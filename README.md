@@ -1,6 +1,15 @@
 ### Hi there 👋
-*** wyd
---- I am thinking
+Brandon
+babest@my.waketech.edu
+CTI 110 repository
+I cloned bbest19.github.io
+Step 8: Choose the location on your computer where you want to clone the repository. You can either choose an existing folder or create a new one.
+Step 9: Click on "Clone repository." This will download a copy of the repository to your computer.
+Step 10: You will add files to this folder in future assignments, so be sure you can find it.  Find the README file in your folder, and edit as described below.
+Step 11: Open Github Desktop and select the repository you just cloned in the left column.
+Step 12: Commit your changes by writing a summary of the changes you made in the "Summary" field and clicking on the "Commit" button in the bottom left corner of the screen.
+Step 13: Push your changes to Github by clicking on the "Push origin" button in the top right corner of the screen.
+
 <!--
 **bbest19/bbest19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
